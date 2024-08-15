@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsajaykumar
 - 👀 I’m interested in Developing...
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me rsajaykumar12@gmail.com
 <!---
