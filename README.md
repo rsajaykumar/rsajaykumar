@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rsajaykumar
-- 👀 I’m interested in Developing...
+- 👀 I’m interested in Programming...
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me rsajaykumar12@gmail.com
